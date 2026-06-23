@@ -446,7 +446,7 @@ endobj
 endobj
 67 0 obj
 <<
-/Author (Johan-Emmanuel Hatchi) /CreationDate (D:20260623135148+02'00') /Creator (Johan-Emmanuel Hatchi) /Keywords (DFIR, SOC, NexaCorp, Month 2 assessment, SQL injection, command injection, XSS, IDOR, broken access control, GDPR, MITRE ATT&CK, BeCode) /ModDate (D:20260623135148+02'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+/Author (Johan-Emmanuel Hatchi) /CreationDate (D:20260623174759+02'00') /Creator (Johan-Emmanuel Hatchi) /Keywords (DFIR, SOC, NexaCorp, Month 2 assessment, SQL injection, command injection, XSS, IDOR, broken access control, GDPR, MITRE ATT&CK, BeCode) /ModDate (D:20260623174759+02'00') /Producer (ReportLab PDF Library - \(opensource\)) 
   /Subject (NexaCorp Month 2 Security Assessment - INC-2026-004 to INC-2026-007 - board review) /Title (Month 2 Security Assessment Report - NexaCorp - BCC-2026) /Trapped /False
 >>
 endobj
@@ -680,7 +680,7 @@ xref
 trailer
 <<
 /ID 
-[<0248e71e85f9d8f93ff3af7d4f99fccd><0248e71e85f9d8f93ff3af7d4f99fccd>]
+[<110579ffd9cbd97fa8b20553218f898e><110579ffd9cbd97fa8b20553218f898e>]
 % ReportLab generated PDF document -- digest (opensource)
 
 /Info 67 0 R
