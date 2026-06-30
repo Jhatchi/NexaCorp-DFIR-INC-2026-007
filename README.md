@@ -206,6 +206,7 @@ The export size returned by `export_users.php` (3858 bytes) matches `exports/emp
 - [INC-2026-005](https://github.com/Jhatchi/NexaCorp-DFIR-INC-2026-005): OS command injection and web shell (web portal)
 - [INC-2026-006](https://github.com/Jhatchi/NexaCorp-DFIR-INC-2026-006): stored XSS and session hijacking (NexaPortal)
 - **INC-2026-007**: this repository (IDOR and broken access control; Month 2 capstone)
+- [INC-2026-008](https://github.com/Jhatchi/NexaCorp-DFIR-INC-2026-008): AD reconnaissance and Kerberoasting (first incident of Month 3)
 
 ---
 
